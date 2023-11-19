@@ -46,9 +46,9 @@
 
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharathchandrasuroj&&theme=tokyonight" alt="sharathchandrasuroj" /></p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sharathchandrasuroj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sharathchandrasuroj" /></a><a href="https://ko-fi.com/sharathchandrasuroj"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sharathchandrasuroj" /></a></p><br><br>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharthchandrasuroj&show_icons=true&locale=en&layout=compact" alt="sharthchandrasuroj" /></p>
 
@@ -57,4 +57,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharthchandrasuroj&" alt="sharthchandrasuroj" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/sharathchandrasuroj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sharathchandrasuroj" /></a><a href="https://ko-fi.com/sharathchandrasuroj"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sharathchandrasuroj" /></a></p><br><br>
