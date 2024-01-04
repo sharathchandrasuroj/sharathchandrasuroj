@@ -23,9 +23,9 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharthchandrasuroj&label=Profile%20views&color=0e75b6&style=flat" alt="sharthchandrasuroj" /> </p>
-
+/*
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharthchandrasuroj" alt="sharthchandrasuroj" /></a> </p>
-
+*/
 - 🔭 I’m currently working on [Full stack Data science](https://github.com/sharathchandrasuroj/Fullstack_Data_Science)
 
 - 🌱 I’m currently learning **Data Science,Machine learning,Deep learning,Python,Natural Language Processing,SQL,PowerBI**
