@@ -37,6 +37,7 @@
 - 📫 How to reach me **sharath.suroj@gmail.com**
 
 - ⚡ Fun fact **iam funny**
+- 👉 My online portfolio **https://sharathchandrasuroj.github.io/**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
