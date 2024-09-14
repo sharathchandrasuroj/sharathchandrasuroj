@@ -4,7 +4,7 @@
 <!-- Typing SVG with Text -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Data+Analyst;Machine+Learning+Engineer;MMachine+Learning|Deep+Learning|MLops|Python|SQL|PowerBI;Focused+Learner;Always%20learning%20new%20things&center=true&width=500&height=50" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Data+Analyst; MMachine+Learning|Deep+Learning|MLops|Python|SQL|PowerBI; Focused+Learner;Always%20learning%20new%20things&center=true&width=500&height=50" alt="Typing SVG">
   </a>
 </p>
 
