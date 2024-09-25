@@ -29,15 +29,15 @@
 
 - 🔭 I’m currently working on [Full stack Data science](https://github.com/sharathchandrasuroj/Fullstack_Data_Science)
 
-- 🌱 I’m currently learning **Data Science,Machine learning,Deep learning,Python,Natural Language Processing,SQL,PowerBI**
+- 🌱 I’m currently learning **Data Science,Data Analyst,Machine learning,Deep learning,Python,Natural Language Processing,SQL,PowerBI**.
 
 - 📝 I regularly write articles on [sharathsuroj.blogspot.com](sharathsuroj.blogspot.com)
 
-- 💬 Ask me about **Machine Learning,Python,SQL,PowerBI**
+- 💬 Ask me about **Machine Learning,Python,SQL,PowerBI**.
 
 - 📫 How to reach me **sharath.suroj@gmail.com**
 
-- ⚡ Fun fact **iam funny**
+- ⚡ Fun fact **iam funny**.
 - 👉 My online portfolio **https://sharathchandrasuroj.github.io/**
 
 ### Blogs posts
