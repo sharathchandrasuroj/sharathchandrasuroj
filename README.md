@@ -33,7 +33,7 @@
 
 - 📝 I regularly write articles on [sharathsuroj.blogspot.com](sharathsuroj.blogspot.com)
 
-- 💬 Ask me about **Machine Learning,Python,SQL,PowerBI**.
+- 💬 Ask me about **Machine Learning,Python,SQL,PowerBI**..
 
 - 📫 How to reach me **sharath.suroj@gmail.com**
 
