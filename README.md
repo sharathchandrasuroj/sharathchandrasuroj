@@ -1,5 +1,5 @@
 # Sharath Chandra S
-<h1 align="center">Hi, its me Sharath... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, its me Sharath.... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- Typing SVG with Text -->
 <p align="center">
