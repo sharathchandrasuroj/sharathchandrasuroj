@@ -1,5 +1,5 @@
 # Sharath Chandra S
-<h1 align="center">Hi, its me Sharath.... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, its me Sharath... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- Typing SVG with Text -->
 <p align="center">
@@ -22,6 +22,8 @@
 
 
 
+
+
 //-->
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -33,11 +35,11 @@
 
 - 🔭 I’m currently working on [Full stack Data science](https://github.com/sharathchandrasuroj/Fullstack_Data_Science)
 
-- 🌱 I’m currently learning **Data Science,Data Analyst,Machine learning,Deep learning,Python,Natural Language Processing,SQL,PowerBI**.
+- 🌱 I’m currently learning **Data Science,Data Analyst,Machine learning,Deep learning,Python,Natural Language Processing,SQL,PowerBI**...
 
 - 📝 I regularly write articles on [sharathsuroj.blogspot.com](sharathsuroj.blogspot.com)
 
-- 💬 Ask me about **Machine Learning,Python,SQL,PowerBI**.
+- 💬 Ask me about **Machine Learning,Python,SQL,PowerBI**...
 
 - 📫 How to reach me **sharath.suroj@gmail.com**
 
