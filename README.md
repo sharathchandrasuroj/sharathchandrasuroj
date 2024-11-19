@@ -41,7 +41,7 @@
 
 - 💬 Ask me about **Machine Learning,Python,SQL,PowerBI**...
 
-- 📫 How to reach me **sharath.suroj@gmail.com**
+- 📫 How to reach me **sharath.suroj@gmail.com**.
 
 - ⚡ Fun fact **iam funny**.
 - 👉 My online portfolio **https://sharathchandrasuroj.github.io/**
