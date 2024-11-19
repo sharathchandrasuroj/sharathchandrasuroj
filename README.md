@@ -35,7 +35,7 @@
 
 - 🔭 I’m currently working on [Full stack Data science](https://github.com/sharathchandrasuroj/Fullstack_Data_Science)
 
-- 🌱 I’m currently learning **Data Science,Data Analyst,Machine learning,Deep learning,Python,Natural Language Processing,SQL,PowerBI**...
+- 🌱 I’m currently learning **Data Science,Data Analyst,Machine learning,Deep learning,Python,Natural Language Processing,SQL and PowerBI**.
 
 - 📝 I regularly write articles on [sharathsuroj.blogspot.com](sharathsuroj.blogspot.com)
 
