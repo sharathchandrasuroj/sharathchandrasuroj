@@ -4,7 +4,7 @@
 <!-- Typing SVG with Text -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Data+Analyst;MMachine+Learning|Deep+Learning|Python|SQL|Power+BI|GenerativeAI;Focused+Learner;Always%20learning%20new%20things&center=true&width=500&height=50" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Agentic+AI;Generative+AI;LLM;MMachine+Learning|Deep+Learning|Python|SQL|Power+BI|GenerativeAI;Focused+Learner;Always%20learning%20new%20things&center=true&width=500&height=50" alt="Typing SVG">
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sharath...</h1>
-<h3 align="center">Machine Learning Engineer</h3>
+<h3 align="center">AI Engineer</h3>
 
 //-->
 <!--
@@ -33,17 +33,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharthchandrasuroj" alt="sharthchandrasuroj" /></a> </p>
 
-- 🔭 I’m currently working on [Full stack Data science](https://github.com/sharathchandrasuroj/Fullstack_Data_Science)
+- 🔭 I’m currently working on [Agentic AI](https://github.com/sharathchandrasuroj/Fullstack_Data_Science)
 
-- 🌱 I’m currently learning **Data Science,Data Analyst,Machine learning,Deep learning,Python,Natural Language Processing,SQL and PowerBI**.
+- 🌱 I’m currently learning **Agentic AI,RAG,Generative AI, LLM,Machine learning,Deep learning,Python,Natural Language Processing,SQL and PowerBI**.
 
 - 📝 I regularly write articles on [sharathsuroj.blogspot.com](sharathsuroj.blogspot.com)
 
-- 💬 Ask me about **Machine Learning,Python,SQL,PowerBI**...
+- 💬 Ask me about **Agentic AI,RAG,Generative AI,Machine Learning,Python,SQL,PowerBI**...
 
 - 📫 How to reach me **sharath.suroj@gmail.com**.
 
-- ⚡ Fun fact **iam funny**.
+- ⚡ Fun fact **iam Ai**.
 - 👉 My online portfolio **https://sharathchandrasuroj.github.io/**
 
 ### Blogs posts
