@@ -39,7 +39,7 @@
 
 - 📝 I regularly write articles on [sharathsuroj.blogspot.com](sharathsuroj.blogspot.com)
 
-- 💬 Ask me about **Agentic AI,RAG,Generative AI,Machine Learning,Python,SQL,PowerBI**...
+- 💬 Ask me about **Agentic AI,RAG,Generative AI,Machine Learning,Natural Language Processing,Python,SQL,PowerBI and Excel**...
 
 - 📫 How to reach me **sharath.suroj@gmail.com**.
 
